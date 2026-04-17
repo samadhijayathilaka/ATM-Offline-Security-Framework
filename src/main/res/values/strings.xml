@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Secure ATM Auth</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="secure_atm_auth">Secure ATM Authentication</string>
+    <string name="account_number">Account Number</string>
+    <string name="choose_auth_method">Choose Authentication Method</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scan_qr_description">Scan the ATM\'s QR code for secure authentication</string>
+    <string name="tap_nfc">Tap NFC</string>
+    <string name="tap_nfc_description">Tap your device against the ATM\'s NFC reader</string>
+    <string name="device_ready">Device Ready for Offline Authentication</string>
+
+    <!-- Response Screen -->
+    <string name="auth_response">Authentication Response</string>
+    <string name="present_qr">Present this QR code to the ATM</string>
+    <string name="generated_qr">Generated QR Code</string>
+    <string name="scan_at_atm">Scan this code at the ATM</string>
+    <string name="response_token">Response Token</string>
+    <string name="transaction_details">Transaction Details</string>
+    <string name="amount">Amount</string>
+    <string name="status">Status</string>
+    <string name="waiting_confirmation">Waiting for ATM confirmation</string>
+    <string name="confirm_transaction">Confirm Transaction</string>
+
+    <!-- Login Screen -->
+    <string name="secure_login">Secure Login</string>
+    <string name="login_subtitle">Enter your credentials to access ATM authentication</string>
+    <string name="app_pin">App PIN</string>
+    <string name="continue_text">Continue</string>
+    <string name="register_link">Don\'t have a registered device? Register here</string>
+
+    <!-- Register Screen -->
+    <string name="register_device">Register Device</string>
+    <string name="register_subtitle">Register your mobile device for secure ATM authentication</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_pin">Confirm PIN</string>
+    <string name="register_device_btn">Register Device</string>
+    <string name="device_info">Your mobile device will act as a trusted ATM security device for offline authentication.</string>
+</resources>
